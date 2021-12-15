@@ -1,4 +1,4 @@
-def addTwoNumbers(x, y):
+def add(x, y):
     return x + y
 
-print(addTwoNumbers(11, 23))
+print(add(11, 23))
