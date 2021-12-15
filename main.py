@@ -1,3 +1,4 @@
-def addTwoNumbers(a, b):
-    return a+b
+def addTwoNumbers(x, y):
+    return x + y
+
 print(addTwoNumbers(11, 23))
